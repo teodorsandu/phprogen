@@ -3,21 +3,29 @@ phprogen
 
 PHP PROject GENerator
 ```code
-php
+PHP
   ProJECT
-     genERATOR
+     GenERATOR
+
+.
+├── PHProGen
+│   │
+│   ├── classes
+│   │   ├── jsmin.php
+│   │   └── scanDir.php
+│   ├── helpers
+│   │    ├── console.php
+│   │    └── url.php
+│   ├── plugins
+│   │
+│   ├── templates
+│   │    ├── example.php
+│   │    ├── plugin.php
+│   │    └── project.php
+│   │
+│   └── PHProGen.php
+│
+├── examples
+└── projects
 ```
-<style>
-.prg1{
-color:red;
-}
-.prgfont{
-font: 12px Consolas, 'Liberation Mono', Menlo, Courier, monospace;
-}
-</style>
-<p class="prgfont">
-php
-  <span style="color:#700">p</span>ro<span style="color:#700" class="prg1">ject</span>
-     gen<span style="color:#700">erator</span>
-</p>
 
