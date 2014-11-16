@@ -1,7 +1,7 @@
 phprogen
 ========
 
-PHP PROject GENerator
+PHP pROject GENerator: An easy and fast way to add frontend components to your website with PHP
 ```code
 PHP
   ProJECT
